@@ -1,0 +1,17 @@
+            ** Regra de Negócios **
+
+1º Regra:
+	
+	Foi feito um sistema de controle de estoque, onde todos os produtos ao cadastrar devem ter uma quantidade. Visto que, a cada compra feita o estoque do determinado produto vai diminuindo, se chega a 0, não é possível mais comprar do mesmo.
+
+2º Regra:
+
+	Também foi incluído um sistema simples de pagamento, onde ele é encontrado na listagem das compras. Nesta regra, é possível ver se a compra feita por determinado cliente já foi paga, ou se deseja pagar.
+
+3° Regra:
+	Neste envio, foi feito sistema de login e cadastro de usuário. Onde é necessário ter um acesso de usuário (um login) para poder cadastrar. Indivíduos que não têm um, só consegue visualizar o sistema de listagem. 
+
+            ** Dados para login **
+
+Email: admin@storetech.com
+Senha: admin123 
